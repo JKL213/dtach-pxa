@@ -208,3 +208,11 @@ Public License.
 
 Comments and suggestions about dtach are welcome, and can be sent to
 the author at: <crigler@users.sourceforge.net>.
+
+8. PYTHON IMPLEMENTATION
+
+A small Python reimplementation is provided in `pydtach.py`. This script
+offers a minimal subset of dtach's features and can be invoked with
+similar command line options. It does not support every feature of the
+original C version but can be useful for simple detaching and attaching
+tasks when Python is available.
